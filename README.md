@@ -19,7 +19,7 @@ SRCCON was a win because of its diverse group of people. They proved it's not im
 #### Diversity
 [Charting diversity in different newsrooms](http://community.scratchmag.net/diversity-in-journalism/)
 
-![diversity](diversity.png)
+![diversity](http://f.cl.ly/items/2w3A46163b1y2x01123j/diversity.png)
 
 #### A journalism business - sustainability
 <https://github.com/sinker/twomillion>
@@ -57,7 +57,7 @@ SRCCON was a win because of its diverse group of people. They proved it's not im
 
 
 
-![diversity](veltman-bubble.gif)
+![diversity](http://f.cl.ly/items/1y1Z1X2X222x300k2l2H/veltman-bubble.gif)
 
 #### Others links 
 * [Gathered conf links](https://etherpad.mozilla.org/SRCCON2014-where-from-here)
